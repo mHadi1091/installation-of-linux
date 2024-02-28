@@ -1,14 +1,14 @@
-# installation method,
+# installation method ⬇️,
 * USB dirve containing the desired Linux distribution's ISO file.
 * following are the steps for installation of linux.
-## download a linux distribution for the ISO file,
+## download a linux distribution for the ISO file 🌐,
 * go to the offical website of linux and download a distributor which u wish
 * `ubuntu`is the best option for beginners
 * you can either go directly to `ubuntu` or `linux distribution` to install `ubuntu`
 * download the version similar to your device spacifications
 * once your done downloading the `ubuntu` ISO file
 * run and install it
-## USB drive method,
+## USB drive method 📝,
 * to contiune the further installation we have to use the USB method
 * to burn the ISO file into the USB use the rufus tool
 * Rufus is a popular utility for creating bootable USB drives from ISO files. Here's how you can use Rufus to create a bootable USB drive:
@@ -29,6 +29,6 @@
 
 8. **Wait for Completion**: Rufus will format the USB drive and copy the contents of the ISO file to the drive. This process may take some time depending on the size of the ISO file and the speed of your USB drive.
 
-9. **Completion**: Once Rufus has finished creating the bootable USB drive, you will see a message indicating that the process is complete. You can now safely eject the USB drive from your computer.
+9. **Completion📦️**: Once Rufus has finished creating the bootable USB drive, you will see a message indicating that the process is complete. You can now safely eject the USB drive from your computer.
 
 Your bootable USB drive is now ready for use. You can use it to boot your computer into the operating system or utility contained within the ISO file. Remember to configure your computer's BIOS or UEFI settings to boot from the USB drive if necessary. 
