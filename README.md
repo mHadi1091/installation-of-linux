@@ -32,3 +32,5 @@
 9. **Completion📦️**: Once Rufus has finished creating the bootable USB drive, you will see a message indicating that the process is complete. You can now safely eject the USB drive from your computer.
 
 Your bootable USB drive is now ready for use. You can use it to boot your computer into the operating system or utility contained within the ISO file. Remember to configure your computer's BIOS or UEFI settings to boot from the USB drive if necessary. 
+
+# boot the ISO file in the boot menu 
