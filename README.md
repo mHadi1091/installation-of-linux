@@ -36,3 +36,5 @@ Your bootable USB drive is now ready for use. You can use it to boot your comput
 # boot the ISO file in the boot menu 
 * to boot thr ISO file access the boot menu by shutdowning or restarting your system
 * access the boot menu by pressing `esc, F2, F8, F10, F12,`
+* navigate to BIOs/UEFI and boot the ubuntu file
+* 
