@@ -34,3 +34,5 @@
 Your bootable USB drive is now ready for use. You can use it to boot your computer into the operating system or utility contained within the ISO file. Remember to configure your computer's BIOS or UEFI settings to boot from the USB drive if necessary. 
 
 # boot the ISO file in the boot menu 
+* to boot thr ISO file access the boot menu by shutdowning or restarting your system
+* access the boot menu by pressing `esc, F2, F8, F10, F12,`
