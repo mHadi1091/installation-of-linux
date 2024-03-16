@@ -38,5 +38,8 @@ Your bootable USB drive is now ready for use. You can use it to boot your comput
 * access the boot menu by pressing `esc, F2, F8, F10, F12,`
 * navigate to BIOs/UEFI and boot the ubuntu file
 * once the file is done restart your pc
-* and u will enter into ubuntu 
+* and u will enter into ubuntu
+
+# Ubuntu 
+* As u get acess to the ubuntu interface you the option to run a free trail without installation of ubuntu
 
