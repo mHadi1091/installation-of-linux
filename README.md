@@ -41,5 +41,5 @@ Your bootable USB drive is now ready for use. You can use it to boot your comput
 * and u will enter into ubuntu
 
 # Ubuntu 
-* As u get acess to the ubuntu interface you the option to run a free trail without installation of ubuntu
+* As u get acess to the ubuntu interface you the option to run a free trail without installation of ubuntu.
 
